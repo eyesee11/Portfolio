@@ -14,15 +14,15 @@ function Contact({ darkMode }: ContactProps) {
           <h3 className="mb-4">Get in Touch</h3>
           <div className="d-flex align-items-center mb-3">
             <FaEnvelope className="me-3" />
-            <span>john.doe@example.com</span>
+            <span>weaboo1164@gmail.com</span>
           </div>
           <div className="d-flex align-items-center mb-3">
             <FaPhone className="me-3" />
-            <span>+1 234 567 890</span>
+            <span>+91 89237 09367</span>
           </div>
           <div className="d-flex align-items-center">
             <FaMapMarkerAlt className="me-3" />
-            <span>San Francisco, CA</span>
+            <span>Rajpura,Punjab,India</span>
           </div>
         </Col>
         <Col md={6}>

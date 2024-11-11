@@ -19,39 +19,39 @@ function Projects({ darkMode }: ProjectsProps) {
 
   const projects: Project[] = [
     {
-      title: 'E-commerce Platform',
-      description: 'A full-stack e-commerce solution with React and Node.js',
-      image: 'https://picsum.photos/400/300?random=1',
-      github: 'https://github.com/username/ecommerce',
-      demo: 'https://ecommerce-demo.com'
+      title: 'Dating Website',
+      description: 'A full-stack Dating website with React and Django',
+      image: '/src/assets/Dating.png',
+      github: 'https://github.com/eyesee11/GeekyMilan',
+      demo: 'https://eyesee11.github.io/GeekyMilan/'
     },
     {
-      title: 'Social Media App',
-      description: 'Real-time social platform using Socket.io and React',
-      image: 'https://picsum.photos/400/300?random=2',
-      github: 'https://github.com/username/social-media',
-      demo: 'https://social-demo.com'
+      title: 'Mini Music Player',
+      description: 'A simple music player built with React',
+      image: '/src/assets/music.png',
+      github: 'https://github.com/eyesee11/music_player',
+      demo: 'https://eyesee11.github.io/music_player/'
     },
     {
-      title: 'Task Management',
-      description: 'Productivity app with drag-and-drop interface',
-      image: 'https://picsum.photos/400/300?random=3',
-      github: 'https://github.com/username/task-manager',
-      demo: 'https://task-demo.com'
+      title: 'IntelliSpeed',
+      description: 'A portable speedometer for vehicles',
+      image: 'https://portfolio-iamramanjot444-gmailcoms-projects.vercel.app/static/media/intel.02c8115ef6eb1ea8b375.png',
+      github: 'https://github.com/eyesee11/IntelliSpeedr',
+      demo: 'https://eyesee11.github.io/IntelliSpeed/'
     },
     {
-      title: 'Portfolio Website',
-      description: 'Personal portfolio built with React and Bootstrap',
-      image: 'https://picsum.photos/400/300?random=4',
-      github: 'https://github.com/username/portfolio',
-      demo: 'https://portfolio-demo.com'
+      title: 'Calculator',
+      description: 'A simple calculator built with React',
+      image: '/src/assets/calc.png',
+      github: 'https://github.com/eyesee11/calculator',
+      demo: 'https://eyesee11.github.io/calculator/'
     },
     {
-      title: 'Weather Dashboard',
-      description: 'Real-time weather tracking application',
-      image: 'https://picsum.photos/400/300?random=5',
-      github: 'https://github.com/username/weather',
-      demo: 'https://weather-demo.com'
+      title: 'QR Code Generator',
+      description: 'A simple QR code generator built with HTML, CSS, and JavaScript',
+      image: '/src/assets/QR.png',
+      github: 'https://github.com/eyesee11/QR_generator',
+      demo: 'https://eyesee11.github.io/QR_generator/'
     }
   ];
 

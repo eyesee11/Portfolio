@@ -11,7 +11,7 @@ function About({ darkMode }: AboutProps) {
       <Row className="align-items-center">
         <Col md={6}>
           <img
-            src="https://picsum.photos/600/400"
+            src="/src/assets/ayush.jpg"
             alt="About"
             className="img-fluid rounded"
           />
@@ -19,22 +19,21 @@ function About({ darkMode }: AboutProps) {
         <Col md={6}>
           <h3 className="mb-4">My Journey</h3>
           <p>
-            With over 5 years of experience in web development, I specialize in
-            creating responsive and user-friendly applications. My passion lies in
+            I specialize in creating responsive and user-friendly applications. My passion lies in
             solving complex problems and learning new technologies.
           </p>
           <div className="mt-4">
             <h4>Education</h4>
             <ul>
-              <li>Bachelor's in Computer Science</li>
-              <li>Full Stack Development Certification</li>
+              <li>Pursuing Bachelor's in Computer Science</li>
+              
             </ul>
           </div>
           <div className="mt-4">
             <h4>Experience</h4>
             <ul>
-              <li>Senior Developer at Tech Corp (2020-Present)</li>
-              <li>Web Developer at Digital Solutions (2018-2020)</li>
+              <li>Web Developer for JBL brand company</li>
+              <li>Hands on Experience with several AI/ML projects</li>
             </ul>
           </div>
         </Col>

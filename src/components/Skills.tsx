@@ -14,8 +14,8 @@ function Skills({ darkMode }: SkillsProps) {
     { icon: FaCss3Alt, name: 'CSS3' },
     { icon: FaJs, name: 'JavaScript' },
     { icon: FaReact, name: 'React' },
-    { icon: FaNode, name: 'Node.js' },
-    { icon: FaDatabase, name: 'Databases' },
+    // { icon: FaNode, name: 'Node.js' },
+    { icon: FaDatabase, name: 'Firebase' },
     { icon: FaGitAlt, name: 'Git' },
     { icon: FaDocker, name: 'Docker' },
   ];
