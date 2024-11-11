@@ -13,7 +13,8 @@ function About({ darkMode }: AboutProps) {
           <img
             src="/src/assets/ayush.jpg"
             alt="About"
-            className="img-fluid rounded"
+            className="img-fluid rounded-circle"
+            style={{ width: '75%', borderRadius: '50%' }}
           />
         </Col>
         <Col md={6}>

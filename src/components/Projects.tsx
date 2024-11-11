@@ -37,7 +37,7 @@ function Projects({ darkMode }: ProjectsProps) {
       description: 'A portable speedometer for vehicles',
       image: 'https://portfolio-iamramanjot444-gmailcoms-projects.vercel.app/static/media/intel.02c8115ef6eb1ea8b375.png',
       github: 'https://github.com/eyesee11/IntelliSpeedr',
-      demo: 'https://eyesee11.github.io/IntelliSpeed/'
+      demo: 'https://raman-0123.github.io/IntelliSpeed/'
     },
     {
       title: 'Calculator',
